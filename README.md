@@ -5,7 +5,7 @@
 - **Mobile:** 9376847944
 - **Email:** singhsarpreet234@gmail.com
 - **LinkedIn:** [linkedin.com/in/gurpreetsingh57](https://www.linkedin.com/in/gurpreetsingh57)
-- **Portfolio:** [unstop.com/u/Gurii_57](https://www.unstop.com/u/Gurii_57)
+- **unstop:** [unstop.com/u/Gurii_57](https://www.unstop.com/u/Gurii_57)
 - **GitHub:** [github.com/Gurry-12](https://github.com/Gurry-12)
 - **Replit:** [replit.com/@Guriiii](https://replit.com/@Guriiii)
 
