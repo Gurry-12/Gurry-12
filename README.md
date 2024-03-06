@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurry-12" alt="gurry-12" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Assistant**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python and C++**
 
 - 💬 Ask me about **Python**
 
