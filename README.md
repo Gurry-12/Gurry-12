@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">I am a passionate Computer Science Engineering student pursuing my Bachelor's degree from Punjab Technical University. Currently, I am in my third year of studies and have demonstrated a strong academic performance.</h3>
+<h3 align="center">I am a passionate Computer Science Engineering student pursuing my Bachelor's degree from Punjab Technical University. I am in my third year of studies and have demonstrated a strong academic performance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="gurry-12" /> </p>
 
