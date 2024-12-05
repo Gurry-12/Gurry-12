@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gurry-12?tab=repositories](https://github.com/Gurry-12?tab=repositories)
+- 👨‍💻 All of my projects are available at [Project Repo](https://shorturl.at/1bhUu)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **gurpreetsw57@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14hbK1HGYZFZpEi3yUWCHqRnrFZejKh_g/view?usp=sharing](https://drive.google.com/file/d/14hbK1HGYZFZpEi3yUWCHqRnrFZejKh_g/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://shorturl.at/TF7CK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
