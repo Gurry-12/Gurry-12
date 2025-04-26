@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">Aspiring AI Specialist | Student Placement Coordinator @ GGI | Chairperson, CodeForge Club | Passionate about Python, ML, DSA, and Innovation 🚀</h3>
+<h3 align="center">Aspiring AI Specialist | .NET Developer Intern | Student Placement Coordinator @ GGI | Chairperson, CodeForge Club | Passionate about Python, .NET, ML, DSA 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="gurry-12" />
+</p>
+
+<p align="center">
+  <a href="mailto:work.gurpreetsw@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Work%20with%20Me-brightgreen?style=for-the-badge&logo=gmail" alt="Hire Me Badge" />
+  </a>
 </p>
 
 ---
@@ -11,25 +17,27 @@
 
 Hi! I'm **Gurpreet Singh**, a passionate Computer Science Engineering student at **Punjab Technical University**, specializing in **IoT, Cybersecurity, and Blockchain Technology**.
 
+🔹 **.NET Developer Intern**, currently working with **ASP.NET Core MVC**  
+🔹 Building a **Book Management System** project  
 🔹 **Student Placement Coordinator** @ **Gulzar Group of Institutes**  
 🔹 **Chairperson** of the **CodeForge Club**  
-🔹 Skilled in **Python**, **C**, **C++**, **Data Structures & Algorithms**, **Machine Learning**  
-🔹 Developed projects like **Virtual Piano App**, **Employee Management System** (Flask + SQLAlchemy)  
-🔹 Certified in **Ethics in Generative AI**, **E-Commerce**, **Cloud Storage Skills**, and more  
-🔹 Passionate about AI, ML, Speech-to-Text, and new-age tech innovation.
+🔹 Skilled in **Python**, **C**, **C++**, **DSA**, **Machine Learning**, and now **ASP.NET Core**  
+🔹 Certified in **Ethics in Generative AI**, **Cloud Storage Skills**, **E-Commerce Fundamentals**, and more  
+🔹 Passionate about AI, ML, Web Development, and full-stack innovation.
 
 > "Driven by curiosity and powered by innovation, I believe in coding not just for work, but for making an impact." 🚀
 
 ---
 
 ## 🔭 What I'm currently working on:
-- Deep dive into **Data Structures & Algorithms (DSA)**
-- Learning **Advanced Python** and **C++ Programming**
+- Building a **Book Management System** using **ASP.NET Core MVC**
+- Deep dive into **.NET Framework** and **Full Stack Development**
+- Advanced concepts in **DSA**, **Python**, and **C++ Programming**
 
 ---
 
 ## 📫 How to reach me:
-- **Email**: gurpreetsw57@gmail.com
+- **Email**: [work.gurpreetsw@gmail.com](mailto:work.gurpreetsw@gmail.com)
 - **LinkedIn**: [gurpreet-singh57](https://linkedin.com/in/gurpreet-singh57)
 - **Project Portfolio**: [Project Repo](https://shorturl.at/1bhUu)
 - **Resume**: [View Resume](https://shorturl.at/TF7CK)
@@ -66,6 +74,7 @@ Hi! I'm **Gurpreet Singh**, a passionate Computer Science Engineering student at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
 </p>
 
 ---
