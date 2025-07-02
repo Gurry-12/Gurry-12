@@ -27,7 +27,7 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 - 🎯 Student Placement Coordinator @ Gulzar Group of Institutes  
 - 👨‍💼 Chairperson, CodeForge Club  
 - 🧠 Skilled in Python, C, C++, DSA, Machine Learning, and ASP.NET Core  
-- 📜 Certified in:
+- 📜 Recognized GitHub Student Developer Pack member & certified in:
   - Ethics in Generative AI  
   - Cloud Storage Skills  
   - E-Commerce Fundamentals  
@@ -47,6 +47,15 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 ## 🧠 Fun Fact
 
 - I switched from front-end to .NET backend in just 2 months and now lead full-stack features independently.
+
+---
+
+## 🎓 Highlights
+
+- ✅ GitHub Student Developer Pack Member  
+- 💡 Microsoft Learn & Coursera Certified  
+- 🧠 Exploring ML, ASP.NET Core & Full Stack  
+- 🛠️ Open to Hackathons, Collabs, and Internship Opportunities  
 
 ---
 
@@ -73,6 +82,10 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Student%20Pack-Verified-blue?style=for-the-badge&logo=github" alt="GitHub Dev Pack Badge" />
+</p>
 
 ## 🛠 Languages and Tools:
 
