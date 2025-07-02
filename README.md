@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">AI Enthusiast | .NET Developer Intern | Chairperson @ CodeForge | SPC @ GGI | Passionate about Python • ML • DSA • Web Dev 🚀</h3>
+<h3 align="center">
+  AI Enthusiast | .NET Developer Intern | Chairperson @ CodeForge | SPC @ GGI  
+  <br/>Passionate about Python • ML • DSA • Web Dev 🚀
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="gurry-12" />
@@ -12,10 +15,10 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at **Punjab Technical University**, specializing in **IoT, Cybersecurity, and Blockchain Technology**.
 
@@ -34,26 +37,29 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 
 ---
 
-## 🔭 What I'm currently working on:
+## 🔭 What I'm Currently Working On:
+
 - Deep dive into **.NET Framework** and **Full Stack Development**
 - Advanced concepts in **DSA**, **Python**, and **C++ Programming**
 
 ---
 
 ## 🧠 Fun Fact
+
 - I switched from front-end to .NET backend in just 2 months and now lead full-stack features independently.
 
 ---
 
-## 📫 How to reach me:
-- **Email**: [work.gurpreetsw@gmail.com](mailto:work.gurpreetsw@gmail.com)
-- **LinkedIn**: [gurpreet-singh57](https://linkedin.com/in/gurpreet-singh57)
-- **Project Portfolio**: [Project Repo](https://shorturl.at/1bhUu)
+## 📫 How to Reach Me:
+
+- **Email**: [work.gurpreetsw@gmail.com](mailto:work.gurpreetsw@gmail.com)  
+- **LinkedIn**: [gurpreet-singh57](https://linkedin.com/in/gurpreet-singh57)  
+- **Project Portfolio**: [Project Repo](https://shorturl.at/1bhUu)  
 - **Resume**: [View Resume](https://shorturl.at/TF7CK)
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me:
 
 <p align="center">
   <a href="https://linkedin.com/in/gurpreet-singh57" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -96,13 +102,15 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&locale=en&theme=tokyonight" alt="gurry-12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" alt="gurry-12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://metrics.lecoq.io/gurry-12?template=classic&languages=1&isocalendar=1&followup=1" alt="GitHub Metrics" />
@@ -110,7 +118,9 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=tokyonight&margin-w=15&margin-h=15" alt="gurry-12 trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
