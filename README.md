@@ -120,6 +120,7 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
   <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -128,7 +129,7 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 <p align="center">
   <img src="https://metrics.lecoq.io/gurry-12?template=classic&languages=1&isocalendar=1&followup=1" alt="GitHub Metrics" />
 </p>
-
+--->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
