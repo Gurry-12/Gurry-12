@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hey%20I'm%20Gurpreet%20Singh!%20👋&fontAlign=50&fontAlignY=35&fontSize=40&desc=AI%20Enthusiast%20|%20.NET%20Developer%20Intern%20|%20Chairperson%20@%20CodeForge&descAlign=50&descAlignY=60" />
+</p>
+
 <h3 align="center">
-  AI Enthusiast | .NET Developer Intern | Chairperson @ CodeForge | SPC @ GGI  
-  <br/>Passionate about Python • ML • DSA • Web Dev 🚀
+  Passionate about Python • ML • DSA • Web Dev 🚀  
+  <br/>Fueled by curiosity, driven by purpose 💡
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="gurry-12" />
-</p>
-
-<p align="center">
-  <a href="mailto:work.gurpreetsw@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Work%20with%20Me-brightgreen?style=for-the-badge&logo=gmail" alt="Hire Me Badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -22,119 +20,94 @@
 
 Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at **Punjab Technical University**, specializing in **IoT, Cybersecurity, and Blockchain Technology**.
 
-- 💻 .NET Developer Intern working with ASP.NET Core MVC  
-- 📚 Developing a Book Management System  
-- 🎯 Student Placement Coordinator @ Gulzar Group of Institutes  
-- 👨‍💼 Chairperson, CodeForge Club  
-- 🧠 Skilled in Python, C, C++, DSA, Machine Learning, and ASP.NET Core  
-- 📜 Recognized GitHub Student Developer Pack member & certified in:
+- 💻 **.NET Developer Intern** working with ASP.NET Core MVC  
+- 📚 Currently building a **Book Management System**  
+- 🎯 **Student Placement Coordinator** @ Gulzar Group of Institutes  
+- 👨‍💼 **Chairperson**, CodeForge Club  
+- 🧠 Skilled in **Python, C, C++, DSA, ML, and ASP.NET Core**  
+- 📜 Certified in:
   - Ethics in Generative AI  
   - Cloud Storage Skills  
   - E-Commerce Fundamentals  
-- 🚀 Passionate about AI, ML, Web Development & Full-Stack Projects
 
-> _"Fueled by curiosity and driven by purpose, I code to create impact—not just features."_ 🚀
+> _“I code to create impact — not just features.”_ 🚀  
 
 ---
 
-## 🔭 What I'm Currently Working On:
+## 🔭 Currently Exploring
 
-- Deep dive into **.NET Framework** and **Full Stack Development**
-- Advanced concepts in **DSA**, **Python**, and **C++ Programming**
+- Advanced **.NET & Full Stack Development**
+- **Python automation**, **ML models**, and **data analytics**
+- Hands-on with **Flask**, **REST APIs**, and **PostgreSQL**
 
 ---
 
 ## 🧠 Fun Fact
-
-- I switched from front-end to .NET backend in just 2 months and now lead full-stack features independently.
+> Switched from front-end to .NET backend in 2 months and now lead full-stack features independently!
 
 ---
 
 ## 🎓 Highlights
 
-- ✅ GitHub Student Developer Pack Member  
-- 💡 Microsoft Learn & Coursera Certified  
-- 🧠 Exploring ML, ASP.NET Core & Full Stack  
-- 🛠️ Open to Hackathons, Collabs, and Internship Opportunities  
+✅ GitHub Student Developer Pack Member  
+💡 Microsoft Learn & Coursera Certified  
+🧩 Exploring ML, ASP.NET Core & Cloud  
+🚀 Open to Hackathons, Collabs & Internships  
 
 ---
 
-## 📫 How to Reach Me:
-
-- **Email**: [work.gurpreetsw@gmail.com](mailto:work.gurpreetsw@gmail.com)  
-- **LinkedIn**: [gurpreet-singh57](https://linkedin.com/in/gurpreet-singh57)  
-- **Project Portfolio**: [Project Repo](https://shorturl.at/1bhUu)  
-- **Resume**: [View Resume](https://shorturl.at/TF7CK)
-
----
-
-## 🌐 Connect with Me:
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gurpreet-singh57" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/gurpreetsingh57" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/guriii_07_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/guru231" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/singhsarpreet234" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/guriii" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://leetcode.com/guriii/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/singhsarpreet234/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+  <a href="mailto:work.gurpreetsw@gmail.com"><img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/gurpreet-singh57"><img src="https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://kaggle.com/gurpreetsingh57"><img src="https://img.shields.io/badge/Kaggle-Gurpreet-lightblue?style=for-the-badge&logo=kaggle" /></a>
+  <a href="https://leetcode.com/guriii/"><img src="https://img.shields.io/badge/LeetCode-Guriii-yellow?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Student%20Pack-Verified-blue?style=for-the-badge&logo=github" alt="GitHub Dev Pack Badge" />
-</p>
-
-## 🛠 Languages and Tools:
+## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,flask,dotnet,mysql,git,figma,aws&theme=light" />
 </p>
 
 ---
 
-## 📊 Top Languages
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurry-12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gurry-12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<!---
-<p align="center">
-  <img src="https://metrics.lecoq.io/gurry-12?template=classic&languages=1&isocalendar=1&followup=1" alt="GitHub Metrics" />
-</p>
---->
+## 👾 Fun Zone
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
