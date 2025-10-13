@@ -96,15 +96,7 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 
 
 
-## 👾 Fun Zone
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gurry-12/gurry-12/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 
 
