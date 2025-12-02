@@ -60,10 +60,10 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 ---
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman - Postman API Fundamentals Student Expert - 2025-07-29.png" width="100px" height="100px" href=#>
+<img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="100px" height="100px" />
 
 <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="115px" height="108px" />
-<a href="#">
+
 </div>
 
 ## 📫 Connect with Me
