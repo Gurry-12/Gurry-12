@@ -1,107 +1,101 @@
-<!-- Profile Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hey%20I'm%20Gurpreet%20Singh!%20👋&fontAlign=50&fontAlignY=35&fontSize=40&desc=AI%20Enthusiast%20|%20.NET%20Developer%20Intern%20|%20Chairperson%20@%20CodeForge&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20I'm%20Gurpreet%20Singh%20👋&fontAlign=50&fontAlignY=35&fontSize=30" />
 </p>
 
-<h3 align="center">
-  Passionate about Python • ML • DSA • Web Dev 🚀  
-  <br/>Fueled by curiosity, driven by purpose 💡
-</h3>
+<h3 align="center">AI & .NET Developer | Chairperson @ CodeForge | Tech Innovator 🚀</h3>
+<p align="center">Fueled by curiosity. Driven by purpose. Building with impact. 💡</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="justify">
+Hi! I’m <b>Gurpreet Singh</b>, a  <b>Computer Science </b> graduate at <b>Punjab Technical University</b> with specialization in <b>IoT, Cybersecurity, and Blockchain</b>.  
+I work as a <b>.NET Developer Intern</b> building scalable web applications while exploring ML, automation, and backend engineering.
+</p>
 
-Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at **Punjab Technical University**, specializing in **IoT, Cybersecurity, and Blockchain Technology**.
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 💻 **.NET Developer Intern** working with ASP.NET Core MVC  
-- 📚 Currently building a **Book Management System**  
-- 🎯 **Student Placement Coordinator** @ Gulzar Group of Institutes  
-- 👨‍💼 **Chairperson**, CodeForge Club  
-- 🧠 Skilled in **Python, C, C++, DSA, ML, and ASP.NET Core**  
-- 📜 Certified in:
-  - Ethics in Generative AI  
-  - Cloud Storage Skills  
-  - E-Commerce Fundamentals  
+### 💼 What I Work On
+<p>
+  • Building scalable web applications with <b>ASP.NET Core MVC</b><br>
+  • Developing a <b>Library Management Platform</b><br>
+  • Exploring backend engineering, automation, and ML<br>
+  • Working across <b>Python, C/C++, DSA, ML, Flask & REST APIs</b><br>
+</p>
 
-> _“I code to create impact — not just features.”_ 🚀  
+### 📜 Certifications
+<p>
+  • Ethics in Generative AI<br>
+  • Cloud Storage Skills<br>
+  • E-Commerce Fundamentals<br>
+</p>
 
----
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="200px" align="left">
+<i>“I code to create what matters — not just what works. 🚀”</i> 
 
-## 🔭 Currently Exploring
 
-- Advanced **.NET & Full Stack Development**
-- **Python automation**, **ML models**, and **data analytics**
-- Hands-on with **Flask**, **REST APIs**, and **PostgreSQL**
 
----
+<img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/illustration.png" width="200px" align="left" >
 
-## 🧠 Fun Fact
->
-> Switched from front-end to .NET backend in 2 months and now lead full-stack features independently!
+<h3> 🔭 Currently Exploring </h3>
+<p>
+  • Advanced <b>.NET & Full-Stack Development</b><br>
+  • <b>Python automation</b>, ML model building & analytics<br>
+  • <b>REST APIs</b>, Flask, and PostgreSQL<br>
+  • Cloud fundamentals & deployment systems
+</p>
 
----
 
-## 🎓 Highlights
+<br/><br/>
 
-✅ GitHub Student Developer Pack Member  
-💡 Microsoft Learn & Coursera Certified  
-🧩 Exploring ML, ASP.NET Core & Cloud  
-🚀 Open to Hackathons, Collabs & Internships  
 
----
+## Certification Badges 🪶
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="100px" height="100px" />
-
-<img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="115px" height="108px" />
-
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="110" />
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="120" />
 </div>
 
-## 📫 Connect with Me
 
+## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:work.gurpreetsw@gmail.com"><img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/gurpreet-singh57"><img src="https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://kaggle.com/gurpreetsingh57"><img src="https://img.shields.io/badge/Kaggle-Gurpreet-lightblue?style=for-the-badge&logo=kaggle" /></a>
-  <a href="https://leetcode.com/guriii/"><img src="https://img.shields.io/badge/LeetCode-Guriii-yellow?style=for-the-badge&logo=leetcode" /></a>
+  <a href="mailto:work.gurpreetsw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/gurpreet-singh57">
+    <img src="https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/gurpreetsingh57">
+    <img src="https://img.shields.io/badge/Kaggle-Gurpreet-lightblue?style=for-the-badge&logo=kaggle" />
+  </a>
+  <a href="https://leetcode.com/guriii/">
+    <img src="https://img.shields.io/badge/LeetCode-Guriii-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
----
 
-## 🛠 Languages and Tools
-
+## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,flask,dotnet,mysql,git,figma,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,jquery,bootstrap,flask,dotnet,mysql,git,figma,aws,cs,angular,mysql,notion,postman,replit,sqlite,sklearn,vscode,visualstudio,netlify,github&theme=light" />
 </p>
 
----
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
+<details>
+<summary><strong>📊 GitHub stats</strong></summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=dracula&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight" height="120" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&theme=tokyonight" height="120" alt="top langs" />
 </p>
+</details>
 
----
+<details>
+<summary> <b> 🏆 GitHub Trophies </b> </summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=dracula&margin-w=8&margin-h=8" width="100%" />
+</p>
+</details>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
