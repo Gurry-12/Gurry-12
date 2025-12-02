@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at **Punjab Technical University**, specializing in **IoT, Cybersecurity, and Blockchain Technology**.
 
@@ -34,6 +34,8 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 
 ---
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="200px" align="left">
+
 ## 🔭 Currently Exploring
 
 - Advanced **.NET & Full Stack Development**
@@ -43,6 +45,7 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 ---
 
 ## 🧠 Fun Fact
+>
 > Switched from front-end to .NET backend in 2 months and now lead full-stack features independently!
 
 ---
@@ -92,13 +95,6 @@ Hi! I'm **Gurpreet Singh**, a final-year Computer Science Engineering student at
 </p>
 
 ---
-
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
