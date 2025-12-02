@@ -49,14 +49,17 @@ I work as a <b>.NET Developer Intern</b> building scalable web applications whil
 
 <br/><br/>
 
+<details>
+<summary> Certification Badges 🪶</summary> 
 
-## Certification Badges 🪶
-
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+<div style='display:flex; align-items:center; gap: 15px;' align='left'>
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="110" />
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="120" />
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="110" />
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefBadge.png" width="110" /> 
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefContest.png" width="110" /> 
 </div>
 
+</details>
 
 ## 📫 Connect With Me
 <p align="center">
