@@ -50,7 +50,7 @@ I work as a <b>.NET Developer Intern</b> building scalable web applications whil
 <br/><br/>
 
 <details>
-<summary> Certification Badges 🪶</summary> 
+<summary> <strong> Certification Badges 🪶 </strong> </summary> 
 
 <div style='display:flex; align-items:center; justify-content:center; gap: 15px;' align='left'>
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="110" />
