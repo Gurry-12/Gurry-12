@@ -57,6 +57,7 @@ I work as a <b>.NET Developer Intern</b> building scalable web applications whil
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="110" />
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefBadge.png" width="110" /> 
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefContest.png" width="110" /> 
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/GCPCertificate.png" width="110" />
 </div>
 
 </details>
