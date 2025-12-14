@@ -3,54 +3,132 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20I'm%20Gurpreet%20Singh%20👋&fontAlign=50&fontAlignY=35&fontSize=30" />
 </p>
 
-<h3 align="center">AI & .NET Developer | Chairperson @ CodeForge | Tech Innovator 🚀</h3>
-<p align="center">Fueled by curiosity. Driven by purpose. Building with impact. 💡</p>
-
+<h3 align="center">Backend Developer (Python & .NET)</h3>
+<p align="center">
+Building backend services, REST APIs, and ML-backed applications with a focus on fundamentals and real-world use cases.
+</p>
 
 ## 👨‍💻 About Me
 
 <p align="justify">
-Hi! I’m <b>Gurpreet Singh</b>, a  <b>Computer Science </b> graduate at <b>Punjab Technical University</b> with specialization in <b>IoT, Cybersecurity, and Blockchain</b>.  
-I work as a <b>.NET Developer Intern</b> building scalable web applications while exploring ML, automation, and backend engineering.
+I’m <b>Gurpreet Singh</b>, a <b>Computer Science graduate</b> from <b>Punjab Technical University</b> and currently working as a <b> Software Developer Intern</b>.
+<br/><br/>
+My primary focus is backend engineering — designing APIs, working with databases, and integrating machine learning models into usable services.  
+I care about <b>how systems work</b>, not just how they look, and I’m actively strengthening my backend and problem-solving fundamentals.
 </p>
+
+<br>
 
 <img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 💼 What I Work On
 <p>
-  • Building scalable web applications with <b>ASP.NET Core MVC</b><br>
-  • Developing a <b>Library Management Platform</b><br>
-  • Exploring backend engineering, automation, and ML<br>
-  • Working across <b>Python, C/C++, DSA, ML, Flask & REST APIs</b><br>
+• Building backend-driven web applications using <b>ASP.NET Core</b><br>
+• Designing and implementing <b>REST APIs</b> (Flask & .NET)<br>
+• Working with <b>SQL databases</b> for schema design and CRUD workflows<br>
+• Applying <b>machine learning models</b> through API-based services<br>
+• Practicing <b>DSA</b> to improve logic and performance thinking<br>
 </p>
 
 
 <i>“I code to create what matters — not just what works. 🚀”</i> 
 
-
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/illustration.png" width="200px" align="left" >
 
-<h3> 🔭 Currently Exploring </h3>
+<h3> 🔭 Currently Learning & Improving </h3>
 <p>
-  • Advanced <b>.NET & Full-Stack Development</b><br>
-  • <b>Python automation</b>, ML model building & analytics<br>
-  • <b>REST APIs</b>, Flask, and PostgreSQL<br>
-  • Cloud fundamentals & deployment systems
+• Backend architecture and best practices in <b>.NET & Python</b><br>
+• <b>Flask-based APIs</b> with validation, error handling, and structure<br>
+• <b>PostgreSQL / SQL</b> fundamentals and query optimization<br>
+• ML model training, inference, and integration into backend services<br>
+• Basics of deployment and production readiness<br>
 </p>
 
 
 <br/><br/>
 
 <details>
+<summary><strong>📌 Selected Work</strong></summary>
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap:24px;
+  margin-top:16px;
+">
+
+  <!-- Card 1 -->
+  <div>
+
+### 📚 Online Book Management System  
+**ASP.NET Core MVC**
+
+- Backend-driven web application  
+- CRUD workflows for books and users  
+- Structured SQL database interaction  
+- Modular backend architecture  
+- Focus on business logic  
+
+  </div>
+
+  <!-- Card 2 -->
+  <div>
+
+### 🧠 Real-Time Emotion Insight Analyzer  
+**Python · Flask · NLP**
+
+- REST API for real-time sentiment analysis  
+- Text preprocessing and feature extraction  
+- ML model inference via API endpoints  
+- Input validation with JSON responses  
+- Designed as a backend service  
+
+  </div>
+
+  <!-- Card 3 -->
+  <div>
+
+### 🍷 Wine Quality Prediction System  
+**Python · scikit-learn · Flask**
+
+- End-to-end ML pipeline  
+- Data preprocessing and feature engineering  
+- Model training and evaluation  
+- Prediction exposed through Flask API  
+- Emphasis on ML workflow clarity  
+
+  </div>
+
+  <!-- Card 4 -->
+  <div>
+
+### 🔧 Backend Practice & Experiments  
+**Ongoing Work**
+
+- Small backend utilities and API prototypes  
+- Python automation experiments  
+- DSA practice for logic & performance  
+- Continuous improvement through building  
+
+  </div>
+
+</div>
+
+</details>
+
+
+<details>
 <summary> <strong> Certification Badges 🪶 </strong> </summary> 
 
 <div style='display:flex; align-items:center; justify-content:center; gap: 15px;' align='left'>
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/GCPCertificate.png" width="110" />
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="110" />
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="110" />
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefBadge.png" width="110" /> 
   <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefContest.png" width="110" /> 
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/GCPCertificate.png" width="110" />
+  
 </div>
 
 </details>
@@ -97,3 +175,4 @@ I work as a <b>.NET Developer Intern</b> building scalable web applications whil
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
