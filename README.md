@@ -54,70 +54,74 @@ I care about <b>how systems work</b>, not just how they look, and I’m actively
 
 <div style="
   display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap:24px;
   margin-top:16px;
+  justify-items: center;
 ">
 
-  <!-- Card 1 -->
-  <div>
+  <!-- Project 1 -->
+  <span style="width:100%;">
 
-### 📚 Online Book Management System  
-**ASP.NET Core MVC**
+<h3>📚 Online Book Management System</h3>
+<b>ASP.NET Core MVC</b>
 
-- Backend-driven web application  
-- CRUD workflows for books and users  
-- Structured SQL database interaction  
-- Modular backend architecture  
-- Focus on business logic  
+<ul>
+  <li>Backend-driven web application</li>
+  <li>CRUD workflows for books and users</li>
+  <li>Structured SQL database interaction</li>
+  <li>Modular backend architecture</li>
+</ul>
 
-  </div>
+  </span>
 
-  <!-- Card 2 -->
-  <div>
+  <!-- Project 2 -->
+  <span style="width:100%;">
 
-### 🧠 Real-Time Emotion Insight Analyzer  
-**Python · Flask · NLP**
+<h3>🧠 Real-Time Emotion Insight Analyzer</h3>
+<b>Python · Flask · NLP</b>
 
-- REST API for real-time sentiment analysis  
-- Text preprocessing and feature extraction  
-- ML model inference via API endpoints  
-- Input validation with JSON responses  
-- Designed as a backend service  
+<ul>
+  <li>REST API for sentiment analysis</li>
+  <li>Text preprocessing & feature extraction</li>
+  <li>ML model inference via endpoints</li>
+  <li>Structured JSON responses</li>
+</ul>
 
-  </div>
+  </span>
 
-  <!-- Card 3 -->
-  <div>
+  <!-- Project 3 -->
+  <span style="width:100%;">
 
-### 🍷 Wine Quality Prediction System  
-**Python · scikit-learn · Flask**
+<h3>🍷 Wine Quality Prediction System</h3>
+<b>Python · scikit-learn · Flask</b>
 
-- End-to-end ML pipeline  
-- Data preprocessing and feature engineering  
-- Model training and evaluation  
-- Prediction exposed through Flask API  
-- Emphasis on ML workflow clarity  
+<ul>
+  <li>End-to-end ML pipeline</li>
+  <li>Data preprocessing & feature handling</li>
+  <li>Model training and evaluation</li>
+  <li>Prediction exposed via Flask API</li>
+</ul>
 
-  </div>
+  </span>
 
-  <!-- Card 4 -->
-  <div>
+  <!-- Project 4 -->
+  <span style="width:100%;">
 
-### 🔧 Backend Practice & Experiments  
-**Ongoing Work**
+<h3>🔧 Backend Practice & Experiments</h3>
+<b>Ongoing Work</b>
 
-- Small backend utilities and API prototypes  
-- Python automation experiments  
-- DSA practice for logic & performance  
-- Continuous improvement through building  
+<ul>
+  <li>Backend utilities and API prototypes</li>
+  <li>Python automation experiments</li>
+  <li>DSA practice for logic & performance</li>
+  <li>Learning through implementation</li>
+</ul>
 
-  </div>
+  </span>
 
 </div>
-
 </details>
-
 
 <details>
 <summary> <strong> Certification Badges 🪶 </strong> </summary> 
