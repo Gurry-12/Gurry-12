@@ -52,76 +52,28 @@ I care about <b>how systems work</b>, not just how they look, and I’m actively
 <details>
 <summary><strong>📌 Selected Work</strong></summary>
 
-<div style="
-  display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap:24px;
-  margin-top:16px;
-  justify-items: center;
-">
+### 📚 Online Book Management System  
+**ASP.NET Core MVC**
 
-  <!-- Project 1 -->
-  <span style="width:100%;">
+- Backend-driven web application  
+- CRUD workflows for books and users  
+- SQL database interaction  
+- Modular backend architecture  
 
-<h3>📚 Online Book Management System</h3>
-<b>ASP.NET Core MVC</b>
+<br/>
 
-<ul>
-  <li>Backend-driven web application</li>
-  <li>CRUD workflows for books and users</li>
-  <li>Structured SQL database interaction</li>
-  <li>Modular backend architecture</li>
-</ul>
+### 🧠 Real-Time Emotion Insight Analyzer  
+**Python · Flask · NLP**
 
-  </span>
+- REST API for real-time sentiment analysis  
+- Text preprocessing and feature extraction  
+- ML inference via API endpoints  
+- Structured JSON responses  
 
-  <!-- Project 2 -->
-  <span style="width:100%;">
-
-<h3>🧠 Real-Time Emotion Insight Analyzer</h3>
-<b>Python · Flask · NLP</b>
-
-<ul>
-  <li>REST API for sentiment analysis</li>
-  <li>Text preprocessing & feature extraction</li>
-  <li>ML model inference via endpoints</li>
-  <li>Structured JSON responses</li>
-</ul>
-
-  </span>
-
-  <!-- Project 3 -->
-  <span style="width:100%;">
-
-<h3>🍷 Wine Quality Prediction System</h3>
-<b>Python · scikit-learn · Flask</b>
-
-<ul>
-  <li>End-to-end ML pipeline</li>
-  <li>Data preprocessing & feature handling</li>
-  <li>Model training and evaluation</li>
-  <li>Prediction exposed via Flask API</li>
-</ul>
-
-  </span>
-
-  <!-- Project 4 -->
-  <span style="width:100%;">
-
-<h3>🔧 Backend Practice & Experiments</h3>
-<b>Ongoing Work</b>
-
-<ul>
-  <li>Backend utilities and API prototypes</li>
-  <li>Python automation experiments</li>
-  <li>DSA practice for logic & performance</li>
-  <li>Learning through implementation</li>
-</ul>
-
-  </span>
-
-</div>
 </details>
+
+
+
 
 <details>
 <summary> <strong> Certification Badges 🪶 </strong> </summary> 
