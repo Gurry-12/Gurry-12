@@ -24,13 +24,6 @@ I work as a <b>.NET Developer Intern</b> building scalable web applications whil
   • Working across <b>Python, C/C++, DSA, ML, Flask & REST APIs</b><br>
 </p>
 
-### 📜 Certifications
-<p>
-  • Ethics in Generative AI<br>
-  • Cloud Storage Skills<br>
-  • E-Commerce Fundamentals<br>
-</p>
-
 
 <i>“I code to create what matters — not just what works. 🚀”</i> 
 
