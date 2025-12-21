@@ -123,7 +123,7 @@ I care about <b>how systems work</b>, not just how they look, and I’m actively
 <details>
 <summary> <b> 🏆 GitHub Trophies </b> </summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=dracula&margin-w=8&margin-h=8" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=onedark" width="100%" height="50%">
 </p>
 </details>
 
