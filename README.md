@@ -103,9 +103,12 @@
 
 ## 🛠️ **My Tech Arsenal** 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,jquery,bootstrap,flask,dotnet,mysql,git,figma,aws,cs,angular,notion,postman,replit,sqlite,sklearn,vscode,visualstudio,netlify,github&theme=dark&perline=8" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,jquery,bootstrap,flask,dotnet,mysql,git,figma,aws,cs,angular,notion,postman,replit,sqlite,sklearn,vscode,visualstudio,netlify,github&theme=dark&perline=8" />
+  </a>
+</p>
+
 
 ### **The Breakdown** 🎯
 ```yaml
