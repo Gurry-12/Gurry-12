@@ -137,7 +137,6 @@ Vibe: [Always Learning 📚, Coffee Powered ☕, Bug Squasher 🐛]
   <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 </details>
----
 
 
 ## 🌐 **Let's Connect & Build Something Epic**
