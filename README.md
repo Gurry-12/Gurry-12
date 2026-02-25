@@ -123,7 +123,7 @@ Vibe: [Always Learning 📚, Coffee Powered ☕, Bug Squasher 🐛]
 
 
 <details>
-  <summary>📊 GitHub Stats That Go Hard </summary>summary>
+  <summary>📊 GitHub Stats That Go Hard </summary>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff"/>
