@@ -10,7 +10,7 @@
 
 <!-- TYPING LINE — demolab.com (herokuapp deprecated, this is the correct URL) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=3+Internships+%7C+Production+APIs+%7C+Real-World+Backend+Systems;ASP.NET+Core+%C2%B7+C%23+%C2%B7+Java+%C2%B7+SQL+Server+%C2%B7+Flask;B.Tech+CSE+%E2%80%9925+%E2%80%94+Available+for+Full-Time+Roles+Globally" alt="Typing animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=3+Internships+%7C+Production+APIs+%7C+Real-World+Backend+Systems;ASP.NET+Core+%C2%B7+C%23+%C2%B7+Java+%C2%B7+SQL+Server+%C2%B7+Flask;B.Tech+CSE+%E2%80%9925+%E2%80%94+Currently+Employed" alt="Typing animation" />
 </div>
 
 <br/>
@@ -161,7 +161,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 **Highlights:** REST API design · NLP pipeline · ML inference · JSON response formatting
 
-[→ View Repository](https://github.com/Gurry-12/Sentiment_analyzer))
+[→ View Repository](https://github.com/Gurry-12/Sentiment_analyzer)
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 <!-- github-trophies.vercel.app — independently hosted fork by lucthienphong1120, stable mirror -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Gurry-12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&rank=-C,-UNKNOWN" />
+  <img src="https://github-trophies.vercel.app/?username=Gurry-12" />
 </div>
 
 ---
