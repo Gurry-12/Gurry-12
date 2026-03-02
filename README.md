@@ -16,7 +16,7 @@
 
 <!-- STATUS STRIP -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Hire-10B981?style=flat-square&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Working%20-10B981?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Alwar%2C%20Rajasthan%2C%20India-1B4F72?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
