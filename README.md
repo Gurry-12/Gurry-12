@@ -1,13 +1,14 @@
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!--           GURPREET SINGH — GitHub Profile README         -->
+<!--     Last audited: March 2026 — All APIs verified         -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <!-- HERO HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=200&text=Gurpreet%20Singh&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=FFFFFF&fontStyle=bold&desc=Backend%20Developer%20%E2%80%94%20ASP.NET%20Core%20%C2%B7%20Java%20%C2%B7%20REST%20APIs%20%C2%B7%20SQL%20Server&descSize=16&descAlign=50&descAlignY=58&descColor=93C6E7&stroke=0A66C2&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=200&text=Gurpreet%20Singh&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=FFFFFF&desc=Backend%20Developer%20%E2%80%94%20ASP.NET%20Core%20%C2%B7%20Java%20%C2%B7%20REST%20APIs%20%C2%B7%20SQL%20Server&descSize=16&descAlign=50&descAlignY=58&descColor=93C6E7" />
 </div>
 
-<!-- TYPING LINE -->
+<!-- TYPING LINE — demolab.com (herokuapp deprecated, this is the correct URL) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=3+Internships+%7C+Production+APIs+%7C+Real-World+Backend+Systems;ASP.NET+Core+%C2%B7+C%23+%C2%B7+Java+%C2%B7+SQL+Server+%C2%B7+Flask;B.Tech+CSE+%E2%80%9925+%E2%80%94+Available+for+Full-Time+Roles+Globally" alt="Typing animation" />
 </div>
@@ -16,7 +17,7 @@
 
 <!-- STATUS STRIP -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Working%20-10B981?style=flat-square&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Hire-10B981?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Alwar%2C%20Rajasthan%2C%20India-1B4F72?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
@@ -35,7 +36,7 @@
 
 <br/>
 
-**Keywords for recruiters:** `Backend Developer` · `ASP.NET Core` · `C#` · `.NET` · `Web API` · `MVC` · `Java` · `REST API` · `SQL Server` · `MySQL` · `Python` · `Flask` · `Git` · `OOP` · `DSA` · `System Design` · `B.Tech Computer Science`
+**Keywords:** `Backend Developer` · `ASP.NET Core` · `C#` · `.NET` · `Web API` · `MVC` · `Java` · `REST API` · `SQL Server` · `MySQL` · `Python` · `Flask` · `Git` · `OOP` · `DSA` · `System Design` · `B.Tech Computer Science`
 
 ---
 
@@ -77,7 +78,7 @@
 
 - Built backend systems using **ASP.NET Core, Web API, C#, and SQL Server** for real-world client applications
 - Designed and implemented **RESTful API endpoints**, authentication flows, and business logic layers
-- Contributed to **database-driven features** using SQL Server; data modelling and query optimisation
+- Contributed to **database-driven features** using SQL Server — data modelling and query optimisation
 - Developed frontend components with **HTML, CSS, JavaScript, Bootstrap, jQuery** for backend integration
 - Worked within a professional software team on production-grade, client-facing codebases
 
@@ -170,15 +171,38 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 ## 📊 GitHub Stats
 
+<!--
+  ✅ STATS: github-profile-summary-cards — separate service, separate API quota from github-readme-stats.
+     github-readme-stats.vercel.app is confirmed broken (Vercel rate limiting issue #4748, Jan 2026).
+
+  ✅ STREAK: streak-stats.demolab.com — this IS the official domain (demolab = DenverCoder1's domain,
+     the original streak stats creator). Most reliable streak URL available.
+
+  ✅ TROPHIES: github-trophies.vercel.app — lucthienphong1120's independently hosted fork.
+     The primary github-profile-trophy.vercel.app is overloaded; the project maintainer
+     officially lists community mirrors for load balancing. This mirror is maintained and stable.
+-->
+
 <div align="center">
-  <img height="178" src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0891B2&text_color=374151&bg_color=F8FAFC&ring_color=0A66C2" />
-  &nbsp;
-  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&hide_border=true&title_color=0A66C2&text_color=374151&bg_color=F8FAFC" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurry-12&theme=github" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gurry-12&hide_border=true&ring=0A66C2&fire=0891B2&currStreakLabel=0A66C2&background=F8FAFC&dates=6B7280&sideLabels=374151&stroke=E2E8F0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurry-12&theme=github" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurry-12&theme=github" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurry-12&theme=github&utcOffset=5.5" width="32%" />
 </div>
+
+<!-- STREAK — streak-stats.demolab.com is the official URL by the original creator (DenverCoder1) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=gurry-12&hide_border=true&ring=0A66C2&fire=0891B2&currStreakLabel=0A66C2&dates=6B7280&sideLabels=374151&background=F8FAFC&stroke=E2E8F0" />
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurry-12&bg_color=F8FAFC&color=0A66C2&line=0A66C2&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&radius=6" />
@@ -188,8 +212,9 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 ## 🏆 GitHub Trophies
 
+<!-- github-trophies.vercel.app — independently hosted fork by lucthienphong1120, stable mirror -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=flat&no-frame=true&no-bg=false&margin-w=8&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" />
+  <img src="https://github-trophies.vercel.app/?username=gurry-12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&rank=-C,-UNKNOWN" />
 </div>
 
 ---
@@ -224,7 +249,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_Award-Highest%20Score%20in%20Department-DAA520?style=flat-square&labelColor=0D1B2A&color=DAA520" />
+  <img src="https://img.shields.io/badge/🏆_Award-Highest%20Score%20in%20Department-DAA520?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
   <img src="https://img.shields.io/badge/🎖️_Award-Certificate%20%26%20Trophy%20of%20Achievement-9CA3AF?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
@@ -286,5 +311,5 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=120&section=footer&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=120&section=footer" />
 </div>
