@@ -1,176 +1,290 @@
-<!-- ✨ AESTHETIC HEADER WITH TYPING ANIMATION ✨ -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--           GURPREET SINGH — GitHub Profile README         -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<!-- HERO HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=yo,%20it's%20gurpreet%20✨&fontAlign=50&fontAlignY=35&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=200&text=Gurpreet%20Singh&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=FFFFFF&fontStyle=bold&desc=Backend%20Developer%20%E2%80%94%20ASP.NET%20Core%20%C2%B7%20Java%20%C2%B7%20REST%20APIs%20%C2%B7%20SQL%20Server&descSize=16&descAlign=50&descAlignY=58&descColor=93C6E7&stroke=0A66C2&strokeWidth=1" />
 </div>
 
+<!-- TYPING LINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Backend+Dev+%7C+Python+%26+.NET+Enthusiast+%F0%9F%90%8D;API+Architect+%7C+Database+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;ML+Integration+Specialist+%F0%9F%A4%96;Always+Learning%2C+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1400&color=0A66C2&center=true&vCenter=true&width=700&lines=3+Internships+%7C+Production+APIs+%7C+Real-World+Backend+Systems;ASP.NET+Core+%C2%B7+C%23+%C2%B7+Java+%C2%B7+SQL+Server+%C2%B7+Flask;B.Tech+CSE+%E2%80%9925+%E2%80%94+Available+for+Full-Time+Roles+Globally" alt="Typing animation" />
 </div>
 
+<br/>
+
+<!-- STATUS STRIP -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile%20Views&color=4ECDC4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gurry-12?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=2C3E50" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Vibing-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Hire-10B981?style=flat-square&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Alwar%2C%20Rajasthan%2C%20India-1B4F72?style=flat-square&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20To-Remote%20%26%20Global%20Roles-0A66C2?style=flat-square&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile+Views&color=0A66C2&style=flat-square&labelColor=0D1B2A" />
+</div>
+
+<br/>
+
+---
+
+## 👤 Professional Summary
+
+> *B.Tech CSE graduate (Punjab Technical University, 2025) with hands-on backend engineering experience across **3 internships**. Specialised in building RESTful APIs, backend business logic, and database-driven systems using **ASP.NET Core, C#, SQL Server**, and **Java**. Former **Chairperson of CodeForge Club**. Actively targeting backend engineering roles at product-based and FAANG-level companies globally.*
+
+<br/>
+
+**Keywords for recruiters:** `Backend Developer` · `ASP.NET Core` · `C#` · `.NET` · `Web API` · `MVC` · `Java` · `REST API` · `SQL Server` · `MySQL` · `Python` · `Flask` · `Git` · `OOP` · `DSA` · `System Design` · `B.Tech Computer Science`
+
+---
+
+## 🧭 At a Glance
+
+<div align="center">
+
+|  | |
+|:---:|:---|
+| 🏢 | **Currently:** Software Intern (Java Backend) · Monocept, Gurugram |
+| 🏗️ | **Previously:** .NET Core Backend Intern · Anviam Solutions (8 months) |
+| 🎓 | **Education:** B.Tech CSE · Punjab Technical University · Class of 2025 |
+| 💡 | **Specialisation:** IoT · Cybersecurity · Blockchain Technology |
+| 🏆 | **Achievement:** Highest Score in Department · CodeForge Club Chairperson |
+| 🌱 | **Learning:** DSA · System Design · Spring Boot · AI/ML Foundations |
+| 🌐 | **Seeking:** Full-time Backend Developer roles · Open to relocation & remote |
+
 </div>
 
 ---
 
-## 🚀 **About This Legend** 
+## 💼 Work Experience
 
-<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<details open>
+<summary><b>🟢 &nbsp; Monocept &nbsp;·&nbsp; Software Intern — Java Backend &nbsp;&nbsp;<code>Feb 2026 – Present</code>&nbsp;&nbsp; Gurugram ｜ Remote</b></summary>
+<br/>
 
-**Yo, I'm Gurpreet Singh** 👋 - your friendly neighborhood **backend wizard** 🧙‍♂️ from **Punjab Technical University**! Currently slaying it as a **Software Developer Intern** and absolutely **obsessed** with making systems that actually work (not just look pretty) ✨
-
-
-**The Vibe Check:** 📊
-- 🎯 **Mission:** Building APIs that don't break at 3 AM
-- 🔥 **Passion:** Making databases cry tears of joy
-- 💡 **Philosophy:** *"Code it once, debug it forever"* (kidding... or am I? 👀)
-- 🌟 **Current Status:** Caffeinated and ready to code
-
-### 🎮 **What I'm Cooking** 
-
-**Backend Supremacy** 💪
-- 🏗️ **ASP.NET Core** apps that actually scale
-- 🌐 **REST APIs** smoother than butter
-- 🗄️ **SQL databases** that make sense
-- 🤖 **ML models** integrated like a boss
-- 🧠 **DSA** practice (because algorithms are life)
-
-*"I don't just write code, I craft digital experiences that slap different 🔥"*
-
-<br clear="left"/>
-
-### 📚 **Currently Grinding** 
-<img align="right" alt="Learning Mode" width="250" src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/illustration.png" />
-
-**Level Up Mode: ACTIVATED** 🎮
-- 🏛️ **.NET & Python** architecture that hits different
-- 🔧 **Flask APIs** with error handling that doesn't ghost you
-- 🐘 **SQL** optimization (making queries go brrrr)
-- 🚀 **ML deployment** without the headaches
-- 🌐 **Production readiness** because YOLO doesn't work in prod
-
-<br clear="right"/>
-
-
-## 💼 **Portfolio That Hits Different**
-
-<details>
-<summary><b>✨ Click to see my fire projects </b></summary>
-
-### 📚 **Online Book Management System** 
-<img src="https://img.shields.io/badge/ASP.NET_Core-MVC-512BD4?style=for-the-badge&logo=.net" />
-<img src="https://img.shields.io/badge/Status-Absolutely_Slaying-success?style=for-the-badge" />
-
-**What it does:** Full-stack book management that's cleaner than your room 🧹
-- ✨ Backend-driven web app with **zero** frontend drama
-- 🔄 CRUD operations smoother than your pickup lines
-- 🗄️ SQL database integration that just works
-- 🏗️ Modular architecture (because spaghetti code ain't it)
-
-### 🧠 **Real-Time Emotion Insight Analyzer** 
-<img src="https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/NLP-Powered-FF6B6B?style=for-the-badge" />
-
-**The tea:** AI that reads emotions better than your bestie 🍵
-- 🎯 REST API for real-time sentiment analysis (no fake vibes here)
-- 🔍 Text preprocessing that's more thorough than airport security
-- 🤖 ML inference via API endpoints (AI magic ✨)
-- 📊 Structured JSON responses (clean data, clean life)
+- Working on backend systems in **Java**, contributing to production-level engineering workflows
+- Collaborating on enterprise APIs, application logic, and real-world backend services
+- Version control and code reviews via **Git** and **GitHub** in a distributed team
 
 </details>
 
 <br/>
 
+<details open>
+<summary><b>🔵 &nbsp; Anviam Solutions Pvt. Ltd. &nbsp;·&nbsp; Software Intern — .NET Backend &nbsp;&nbsp;<code>Jan 2025 – Aug 2025</code>&nbsp;&nbsp; Mohali ｜ 8 months</b></summary>
+<br/>
 
-<details>
-<summary><b>🪶 My Badge Collection (flex zone)</b></summary>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/GCPCertificate.png" width="120" />
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="120" />
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="120" />
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefBadge.png" width="120" />
-  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefContest.png" width="120" />
-</div>
-
-**Translation:** I collect certificates like Pokémon cards 🎴
+- Built backend systems using **ASP.NET Core, Web API, C#, and SQL Server** for real-world client applications
+- Designed and implemented **RESTful API endpoints**, authentication flows, and business logic layers
+- Contributed to **database-driven features** using SQL Server; data modelling and query optimisation
+- Developed frontend components with **HTML, CSS, JavaScript, Bootstrap, jQuery** for backend integration
+- Worked within a professional software team on production-grade, client-facing codebases
 
 </details>
 
+<br/>
 
+<details open>
+<summary><b>🟣 &nbsp; Codehop Interfusion &nbsp;·&nbsp; Software Engineer Intern — Python Backend &nbsp;&nbsp;<code>Sep 2024 – Oct 2024</code>&nbsp;&nbsp; Remote ｜ 2 months</b></summary>
+<br/>
 
-## 🛠️ **My Tech Arsenal** 
+- Developed web applications using **Python and Flask** with Behaviour-Driven Development (BDD)
+- Implemented automated **BDD tests** using the Behave framework for scalable application behaviour
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>⚡ &nbsp; Brainitix &nbsp;·&nbsp; Full Stack Developer &nbsp;&nbsp;<code>Jul 2024</code>&nbsp;&nbsp; Jaipur, Rajasthan</b></summary>
+<br/>
+
+- Short-term full-stack development role contributing to web application features
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,jquery,bootstrap,flask,dotnet,mysql,git,figma,aws,cs,angular,notion,postman,replit,sqlite,sklearn,vscode,visualstudio,netlify,github&theme=dark&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,js,dotnet,flask,html,css,bootstrap,mysql,git,postman,vscode,visualstudio,github&theme=dark&perline=8" />
 </p>
 
-
-### **The Breakdown** 🎯
-```yaml
-Languages: [Python 🐍, C# 💎, C++ ⚡, JavaScript 🌟]
-Frameworks: [ASP.NET Core 🏗️, Flask 🌶️, Angular 🅰️]
-Databases: [MySQL 🐬, PostgreSQL 🐘, SQLite 🪶]
-Tools: [Git 🔀, VS Code 💻, Postman 📮, AWS ☁️]
-Vibe: [Always Learning 📚, Coffee Powered ☕, Bug Squasher 🐛]
-```
-
----
-
-
-<details>
-  <summary>📊 GitHub Stats That Go Hard </summary>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurry-12&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4" />
-</div>
+| Layer | Technologies |
+|:---|:---|
+| **Languages** | `Java` `C#` `Python` `C++` `JavaScript` |
+| **Backend & Frameworks** | `ASP.NET Core MVC` `ASP.NET Web API` `Flask` `REST API` `BDD/Behave` |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `Bootstrap` `jQuery` |
+| **Databases** | `SQL Server` `MySQL` `PostgreSQL` `SQLite` |
+| **Tools** | `Git` `GitHub` `Postman` `Visual Studio` `VS Code` `Microsoft Copilot` |
+| **Learning** | `Spring Boot` `System Design` `DSA` `AI/ML Fundamentals` |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-</details>
-
-
-## 🌐 **Let's Connect & Build Something Epic**
-
-<div align="center">
-  <a href="mailto:work.gurpreetsw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Collab-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/gurpreet-singh57">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Vibes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/gurpreetsingh57">
-    <img src="https://img.shields.io/badge/Kaggle-Data%20Science%20Mode-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/guriii/">
-    <img src="https://img.shields.io/badge/LeetCode-Algorithm%20Slayer-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
 </div>
 
 ---
 
-## 🎯 **Fun Facts About Me**
+## 🚀 Featured Projects
 
-- 🌙 **Night Owl:** Best code happens after midnight
-- ☕ **Coffee Addict:** Powered by caffeine and determination
-- 📚 **Bookworm:** Always reading tech blogs and documentation
-- 🎵 **Music Lover:** Lo-fi beats while coding hits different
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Online Book Management System
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-MVC-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Backend-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
+
+Full-stack book & inventory management system built on clean MVC architecture. Features layered design, full CRUD operations, SQL Server data layer, and backend-driven UI. Built as part of internship work at Anviam Solutions.
+
+**Highlights:** RESTful design · Business logic layer · Authentication · SQL data modelling
+
+[→ View Repository](https://github.com/Gurry-12/OnlineBookManagement)
+
+</td>
+<td width="50%">
+
+### 🧠 Real-Time Emotion Insight Analyzer
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Powered-06B6D4?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
+
+Backend service performing real-time sentiment & emotion analysis on text input. Exposes a REST API with structured JSON responses. Includes a text preprocessing pipeline and ML model inference integration.
+
+**Highlights:** REST API design · NLP pipeline · ML inference · JSON response formatting
+
+[→ View Repository](https://github.com/Gurry-12/machine-learning-projects)
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling" />
+  <img height="178" src="https://github-readme-stats.vercel.app/api?username=gurry-12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0891B2&text_color=374151&bg_color=F8FAFC&ring_color=0A66C2" />
+  &nbsp;
+  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurry-12&layout=compact&hide_border=true&title_color=0A66C2&text_color=374151&bg_color=F8FAFC" />
 </div>
 
 <div align="center">
-  <h3>💫 Thanks for stopping by! Let's build something amazing together 💫</h3>
+  <img src="https://streak-stats.demolab.com/?user=gurry-12&hide_border=true&ring=0A66C2&fire=0891B2&currStreakLabel=0A66C2&background=F8FAFC&dates=6B7280&sideLabels=374151&stroke=E2E8F0" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurry-12&bg_color=F8FAFC&color=0A66C2&line=0A66C2&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&radius=6" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gurry-12&theme=flat&no-frame=true&no-bg=false&margin-w=8&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" />
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/GCPCertificate.png" width="105" title="Google Cloud — Cloud Storage Skill Badge" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Postman-API-Fundamentals-Student-Expert.png" width="105" title="Postman API Fundamentals Student Expert" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/Introduction_to_Github_Copilot.png" width="105" title="Introduction to GitHub Copilot" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Gurry-12/Gurry-12/main/Assets/CodeChefBadge.png" width="105" title="CodeChef Achievement" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Certification | Issuer |
+|:---|:---|
+| Postman API Fundamentals Student Expert | Postman |
+| Get Started with Cloud Storage | Google Cloud |
+| Introduction to GitHub Copilot | GitHub |
+| Ethics in the Age of Generative AI | LinkedIn Learning |
+| What Is Generative AI? | LinkedIn Learning |
+| Streamlining Your Work with Microsoft Copilot | Microsoft |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆_Award-Highest%20Score%20in%20Department-DAA520?style=flat-square&labelColor=0D1B2A&color=DAA520" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎖️_Award-Certificate%20%26%20Trophy%20of%20Achievement-9CA3AF?style=flat-square&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/👑_Leadership-Chairperson%2C%20CodeForge%20Club-0A66C2?style=flat-square&labelColor=0D1B2A" />
+</div>
+
+---
+
+## 📚 Learning Roadmap
+
+<div align="center">
+
+| Area | Focus | Goal |
+|:---|:---|:---|
+| **Data Structures & Algorithms** | Arrays · Trees · Graphs · Dynamic Programming | FAANG-level interview readiness |
+| **System Design** | HLD/LLD · Scalability · Reliability patterns | Senior backend thinking |
+| **Java Ecosystem** | Spring Boot · REST with Java · Architecture patterns | Current internship + beyond |
+| **AI / ML Foundations** | Supervised learning · APIs with models | Future specialisation path |
+
+</div>
+
+---
+
+## 🧩 Practice Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/guriii/)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/gurpreetsingh57)
+&nbsp;
+[![Unstop](https://img.shields.io/badge/Unstop-Competitions-6C4BEF?style=flat-square)](https://unstop.com/u/Gurii_57)
+&nbsp;
+[![Replit](https://img.shields.io/badge/Replit-Playground-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@Guriiii)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gurpreetdev.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://gurpreetdev.netlify.app/home)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurpreetsingh57)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-singhsarpreet234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsarpreet234@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Open to backend engineering roles · Available immediately · Relocatable & remote-friendly</sub>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:0A66C2&height=120&section=footer&reversal=false" />
 </div>
