@@ -15,17 +15,17 @@
 
 <br/>
 
+
 <!-- STATUS STRIP -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Hire-10B981?style=flat-square&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/Status-Currently%20Employed-6366F1?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Alwar%2C%20Rajasthan%2C%20India-1B4F72?style=flat-square&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Jaipur%2C%20Rajasthan%2C%20India-1B4F72?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20To-Remote%20%26%20Global%20Roles-0A66C2?style=flat-square&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20To-Selective%20Conversations-0A66C2?style=flat-square&labelColor=0D1B2A" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gurry-12&label=Profile+Views&color=0A66C2&style=flat-square&labelColor=0D1B2A" />
+  <img src="https://komarev.com/ghpvc/?username=Gurry-12&label=Profile+Views&color=0A66C2&style=flat-square&labelColor=0D1B2A" />
 </div>
-
 <br/>
 
 ---
@@ -72,7 +72,7 @@
 
 <br/>
 
-<details open>
+<details >
 <summary><b>🔵 &nbsp; Anviam Solutions Pvt. Ltd. &nbsp;·&nbsp; Software Intern — .NET Backend &nbsp;&nbsp;<code>Jan 2025 – Aug 2025</code>&nbsp;&nbsp; Mohali ｜ 8 months</b></summary>
 <br/>
 
@@ -86,7 +86,7 @@
 
 <br/>
 
-<details open>
+<details >
 <summary><b>🟣 &nbsp; Codehop Interfusion &nbsp;·&nbsp; Software Engineer Intern — Python Backend &nbsp;&nbsp;<code>Sep 2024 – Oct 2024</code>&nbsp;&nbsp; Remote ｜ 2 months</b></summary>
 <br/>
 
@@ -141,11 +141,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
 
-Full-stack book & inventory management system built on clean MVC architecture. Features layered design, full CRUD operations, SQL Server data layer, and backend-driven UI. Built as part of internship work at Anviam Solutions.
+Full-stack book & inventory management system built on clean MVC architecture. Features layered design, full CRUD operations, a SQL Server data layer, and a backend-driven UI. Built as part of internship work at Anviam Solutions.
 
 **Highlights:** RESTful design · Business logic layer · Authentication · SQL data modelling
 
-[→ View Repository](https://github.com/Gurry-12/OnlineBookManagement)
+[→ View Repository](https://github.com/Gurry-12/OnlineBookManagementSystem)
 
 </td>
 <td width="50%">
@@ -161,7 +161,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 **Highlights:** REST API design · NLP pipeline · ML inference · JSON response formatting
 
-[→ View Repository](https://github.com/Gurry-12/machine-learning-projects)
+[→ View Repository](https://github.com/Gurry-12/Sentiment_analyzer))
 
 </td>
 </tr>
@@ -184,20 +184,20 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurry-12&theme=github" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurry-12&theme=github" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurry-12&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gurry-12&theme=github" width="32%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurry-12&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gurry-12&theme=github" width="32%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurry-12&theme=github&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gurry-12&theme=github&utcOffset=5.5" width="32%" />
 </div>
 
 <!-- STREAK — streak-stats.demolab.com is the official URL by the original creator (DenverCoder1) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gurry-12&hide_border=true&ring=0A66C2&fire=0891B2&currStreakLabel=0A66C2&dates=6B7280&sideLabels=374151&background=F8FAFC&stroke=E2E8F0" />
+  <img src="https://streak-stats.demolab.com/?user=Gurry-12&hide_border=true&ring=0A66C2&fire=0891B2&currStreakLabel=0A66C2&dates=6B7280&sideLabels=374151&background=F8FAFC&stroke=E2E8F0" />
 </div>
 
 ---
@@ -205,7 +205,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurry-12&bg_color=F8FAFC&color=0A66C2&line=0A66C2&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&radius=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurry-12&bg_color=F8FAFC&color=0A66C2&line=0A66C2&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&radius=6" />
 </div>
 
 ---
@@ -214,7 +214,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 
 <!-- github-trophies.vercel.app — independently hosted fork by lucthienphong1120, stable mirror -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=gurry-12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&rank=-C,-UNKNOWN" />
+  <img src="https://github-trophies.vercel.app/?username=Gurry-12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&rank=-C,-UNKNOWN" />
 </div>
 
 ---
@@ -304,7 +304,7 @@ Backend service performing real-time sentiment & emotion analysis on text input.
 <br/>
 
 <div align="center">
-  <sub>Open to backend engineering roles · Available immediately · Relocatable & remote-friendly</sub>
+  <sub>Currently employed as Java Backend Intern at Monocept · Available immediately · Relocatable & remote-friendly</sub>
 </div>
 
 ---
